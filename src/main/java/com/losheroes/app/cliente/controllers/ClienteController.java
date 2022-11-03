@@ -111,7 +111,6 @@ public class ClienteController {
     @DeleteMapping("/eliminar/{id}")
     public ResponseEntity<Object> eliminarCliente(@PathVariable Integer id) {
         LOGGER.info(HtmlUtils.htmlEscape("Aqui en ClienteController llamando eliminarCliente"));
-        //return new ResponseEntity<>(clienteService.eliminarCliente(id),HttpStatus.OK);
         boolean resp = clienteService.eliminarCliente(id);
         if (resp == true){
             return new ResponseEntity<>(resp,HttpStatus.OK);

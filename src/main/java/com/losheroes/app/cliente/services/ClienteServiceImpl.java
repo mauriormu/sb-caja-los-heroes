@@ -3,10 +3,8 @@ package com.losheroes.app.cliente.services;
 import com.losheroes.app.cliente.entities.Cliente;
 import com.losheroes.app.cliente.repositories.ClienteRepository;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.dao.EmptyResultDataAccessException;
 import org.springframework.stereotype.Service;
 
-import javax.transaction.Transactional;
 import java.util.List;
 
 /**

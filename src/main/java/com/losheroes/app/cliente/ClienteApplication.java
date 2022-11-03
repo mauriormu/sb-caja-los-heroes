@@ -15,7 +15,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 				contact = @Contact(name = "Mauricio Ortega", email = "mauriormu@gmail.com")
 		)
 )
-
 @SuppressWarnings({"unchecked", "deprecated"})
 public class  ClienteApplication {
 
