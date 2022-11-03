@@ -1,1 +1,8 @@
 /Users/mau-mbp/workspace/sb-caja-los-heroes/src/main/java/com/losheroes/app/cliente/ClienteApplication.java
+/Users/mau-mbp/workspace/sb-caja-los-heroes/src/main/java/com/losheroes/app/cliente/repositories/ClienteRepository.java
+/Users/mau-mbp/workspace/sb-caja-los-heroes/src/main/java/com/losheroes/app/cliente/controllers/ClienteController.java
+/Users/mau-mbp/workspace/sb-caja-los-heroes/src/main/java/com/losheroes/app/cliente/services/ClienteService.java
+/Users/mau-mbp/workspace/sb-caja-los-heroes/src/main/java/com/losheroes/app/cliente/services/ClienteServiceImpl.java
+/Users/mau-mbp/workspace/sb-caja-los-heroes/src/main/java/com/losheroes/app/cliente/exceptions/ErrorResponse.java
+/Users/mau-mbp/workspace/sb-caja-los-heroes/src/main/java/com/losheroes/app/cliente/exceptions/ClienteExceptionHandler.java
+/Users/mau-mbp/workspace/sb-caja-los-heroes/src/main/java/com/losheroes/app/cliente/entities/Cliente.java
